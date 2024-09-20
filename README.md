@@ -33,12 +33,12 @@ This project models a concert system with three main entities: **Band**, **Venue
     ```bash
     alembic upgrade head
 
-**Running Tests**
+7. **Running Tests:**
 To run the tests, ensure your virtual environment is activated and use:
     ```bash
     python -m unittest test_models.py
 
-**Run the Flask Application**
+8. **Run the Flask Application:**
     ```bash
     python app.py
 
